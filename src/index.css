@@ -4,7 +4,7 @@
 
 .container{
   margin: 100px auto;
-  width: 50%;
+  width: 90%;
   text-align: center;
 }
 
@@ -18,7 +18,7 @@
   text-align: left;
   font-size: 1.2rem;
   margin-bottom: 10px;
-  width: 100%;
+  width: 80%;
   padding: 20px;
   border: none;
   border-bottom: 1px solid green;
@@ -60,7 +60,7 @@ label{
 input{
   font-size: 1.2rem;
   border: none;
-  width: 100%;
+  width: 80%;
   padding: 10px;
   border-bottom: 2px solid ;
 }
